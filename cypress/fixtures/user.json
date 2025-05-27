@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MjNjMzQ0OTdlZGUwMDAxZDA2NmM0YiIsImlhdCI6MTcxMzYzMjU4MCwiZXhwIjoxNzEzNjM2MTgwfQ",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MjNjMzQ0OTdlZGUwMDAxZDA2NmM0YiIsImlhdCI6MTcxMzYzMjU4MCwiZXhwIjoxNzEzNjM2MTgwfQ",
+  "user": {
+    "email": "test@example.com",
+    "name": "TestUser"
+  }
+}

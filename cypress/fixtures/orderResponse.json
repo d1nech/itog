@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "name": "Unique Burger",
+  "order": {
+    "createdAt": "2024-04-20T13:29:40.782Z",
+    "ingredients": {
+      "calories": 500,
+      "carbohydrates": 60,
+      "fat": 20,
+      "image": "https://example.com/bun.png",
+      "image_large": "https://example.com/bun-large.png",
+      "image_mobile": "https://example.com/bun-mobile.png",
+      "name": "Unique Bun",
+      "price": 800,
+      "proteins": 30,
+      "type": "bun",
+      "_id": "uniqueIngredientId"
+    },
+    "_id": "uniqueOrderId",
+    "name": "Unique Burger",
+    "number": 12345,
+    "owner": {
+      "email": "owner@example.com",
+      "name": "UniqueOwner",
+      "createdAt": "2024-04-03T12:09:44.278Z",
+      "updatedAt": "2024-04-12T12:06:09.411Z"
+    },
+    "price": 2400,
+    "status": "done",
+    "updatedAt": "2024-04-20T13:29:41.415Z"
+  }
+}
